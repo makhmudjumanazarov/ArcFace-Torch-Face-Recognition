@@ -4,3 +4,4 @@ mxnet
 onnx
 scikit-learn
 opencv-python
+onnxruntime-gpu==1.16.2
